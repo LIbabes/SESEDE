@@ -12,7 +12,7 @@ public class Main extends Application {
     Stage window;
     Button login;
     Button guest;
-
+    private Integer pila =0;
     public static void main(String[] args) {
         launch(args);
     }
